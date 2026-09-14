@@ -38,6 +38,8 @@ I’m currently growing my programming skills step by step, with a focus on unde
 - MySQL Workbench 8.0 CE
 - DataGrip
 
+  # Projects
+  
   # **📚 Currently Learning**
 
 Python 
@@ -74,4 +76,8 @@ Full-Stack Applications
 
 Deployment
 
+# **🤝 Let’s Connect**
 
+I’m always interested in connecting with other developers, learners, and people interested in technology.
+
+# **Let’s learn, build, and grow together.  🚀**
