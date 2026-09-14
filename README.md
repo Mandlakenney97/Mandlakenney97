@@ -38,14 +38,40 @@ I’m currently growing my programming skills step by step, with a focus on unde
 - MySQL Workbench 8.0 CE
 - DataGrip
 
-Here are some ideas to get you started:
+  # **📚 Currently Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python 
+
+ ↓
+
+Python Projects  
+
+↓
+
+OOP 
+
+ ↓
+
+SQL & Databases  
+
+↓
+
+APIs  
+
+↓
+
+FastAPI  
+
+↓
+
+Backend Development 
+
+ ↓
+
+Full-Stack Applications  
+
+↓
+
+Deployment
+
+
