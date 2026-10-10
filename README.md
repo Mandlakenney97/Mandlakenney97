@@ -2,7 +2,7 @@
 
 Welcome to my Github profile! I’m a Python developer who is passionate about APIs, Databases, and building real-world projects.
 
-I’m currently growing my programming skills step by step, with a focus on understanding the fundamentals, building projects, and solving real-world problems through technology.
+I’m currently growing my programming skills step by step, with a focus on understanding the fundamentals, building projects, and solving real-world problemsthrough technology.
 
 # **About Me**
 
