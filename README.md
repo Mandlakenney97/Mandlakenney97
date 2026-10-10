@@ -12,6 +12,7 @@ I’m currently growing my programming skills step by step, with a focus on unde
 - 🛠️Reach me at: wwww.mandlakenney6@gmail.com
 - 📕Learning through hands-on projects and continuous practice
 - 🎯Goal: Become a professional Python Developement
+- ⚡ Fun fact: I debug with console.log()
 
 # 💻 Tech Stack:
 
