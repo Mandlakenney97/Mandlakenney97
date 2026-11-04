@@ -6,7 +6,7 @@ I’m currently growing my programming skills step by step, with a focus on unde
 
 # **About Me**
 
-- 🐍Currently learning: Python
+- 🐍Currently learning: Python & SQL
 - 🔌Working on: Exploring APIs Integration
 - 🗄️Open to collaborate on: Open Source Projects
 - 🛠️Reach me at: wwww.mandlakenney6@gmail.com
